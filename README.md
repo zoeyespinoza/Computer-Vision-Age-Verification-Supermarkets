@@ -14,6 +14,7 @@ Good Seed Supermarkets, a leading grocery chain, is launching a project focused 
 ![Image](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age_distr.png)
 
 Example of age classification by images of people:
+
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/sample_img_age_verification.png)
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age20.png)
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age_20.png)
