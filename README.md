@@ -11,7 +11,9 @@ Good Seed Supermarkets, a leading grocery chain, is launching a project focused 
 
 - **Enhance Customer Experience:** Implement a system that is non-intrusive and respects customer privacy, while efficiently carrying out age verification.
 
-![Image](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age_distr.png)
+<p align="center">
+  <img src="https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age_distr.png" alt="Description of Image">
+</p>
 
 Example of age classification by images of people:
 
