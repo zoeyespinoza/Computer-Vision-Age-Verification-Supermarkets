@@ -26,6 +26,8 @@ Example of age classification by images of people:
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age60.png)
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age80.png)
 ![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age_80.png)
+![Image2](https://github.com/zoeyvero/Computer-Vision-Age-Verification-Supermarkets/blob/main/graphs/age-80.png)
+
 
 
 
